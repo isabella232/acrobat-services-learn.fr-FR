@@ -2,8 +2,8 @@
 user-guide-title: "[!DNL Adobe Acrobat Services]"
 breadcrumb-title: "[!DNL Acrobat Services]"
 user-guide-description: En savoir plus sur [!DNL Adobe Acrobat Services]
-solution: "[!DNL Acrobat Services], Document Services"
-source-git-commit: f372d3f646303f88546aa9b2a02231316a9b78a2
+solution: Acrobat Services, Document Services
+source-git-commit: 61790ec9615c7a5b5c493827e871841c3dd4c037
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 6%
