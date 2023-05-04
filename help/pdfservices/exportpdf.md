@@ -7,7 +7,7 @@ level: Beginner
 thumbnail: KT-6674.jpg
 kt: 6674
 exl-id: 55f5b04e-0249-47d9-9131-2f9ec01db7e8
-source-git-commit: 799b37e526073893fe7c078db547798d6c31d1b2
+source-git-commit: aa5c88fb5725a3d1c50d5c6b73fce7add629b08d
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 5%
@@ -35,7 +35,9 @@ Dans ce tutoriel, découvrez les principes de base de l’exécution de votre pr
 Utilisez les tutoriels de prise en main ci-dessous pour créer vos identifiants d’API, télécharger des fichiers d’exemple et configurer votre environnement.
 
 [Prise en main de l’API PDF Services et de Java](gettingstartedjava.md)
+
 [Prise en main de l&#39;API PDF Services et de .Net](gettingstartednet.md)
+
 [Prise en main de l&#39;API PDF Services et de Node.js](createpdffromhtml.md)
 
 ## Étape 2 : Exécutez l’opération d’exportation PDF à l’aide des fichiers d’exemple
