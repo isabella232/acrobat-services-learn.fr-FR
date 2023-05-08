@@ -5,8 +5,8 @@ user-guide-description: En savoir plus sur [!DNL Adobe Acrobat Services]
 solution: Acrobat Services
 source-git-commit: 264941900ac1e4778923645cef97a796b0213030
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
