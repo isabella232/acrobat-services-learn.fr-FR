@@ -5,9 +5,9 @@ role: Developer
 level: Intermediate
 type: Tutorial
 thumbnail: KT-8092.jpg
-kt: 8092
+jira: KT-8092
 exl-id: 0e24c8fd-7fda-452c-96f9-1e7ab1e06922
-source-git-commit: 799b37e526073893fe7c078db547798d6c31d1b2
+source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
 workflow-type: tm+mt
 source-wordcount: '1527'
 ht-degree: 0%
@@ -220,7 +220,7 @@ Pour l’API PDF Embed, vous avez également besoin d’un point de terminaison 
 
 ## Intégration du PDF
 
-Ensuite, créez le point de terminaison /job/{id}, qui affiche un modèle contenant le nom de la publication de tâche demandée et un mot de PDF incorporé.
+Maintenant, créez le fichier /job/{id} point de terminaison, qui affiche un modèle contenant le nom de la publication de tâche demandée et un mot de PDF incorporé.
 
 ```
 router.get('/job/:id', async function(req, res, next) {

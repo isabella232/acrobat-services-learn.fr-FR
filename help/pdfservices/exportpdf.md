@@ -3,11 +3,11 @@ title: Utilisation de l’API PDF Services pour exporter du PDF vers Word, Power
 description: Découvrez comment exécuter l'opération d'exportation de l'API PDF Services à l'aide des fichiers d'exemple pour les langages Node.js, Java et .Net
 type: Tutorial
 role: Developer
-level: Beginner
+level: Intermediate
 thumbnail: KT-6674.jpg
 kt: 6674
 exl-id: 55f5b04e-0249-47d9-9131-2f9ec01db7e8
-source-git-commit: aa5c88fb5725a3d1c50d5c6b73fce7add629b08d
+source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 5%

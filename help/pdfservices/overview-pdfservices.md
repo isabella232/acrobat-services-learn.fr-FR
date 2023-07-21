@@ -3,11 +3,11 @@ title: Tutorials d’API Adobe PDF Services
 description: Page Présentation des tutoriels sur les API Adobe PDF Services
 type: Tutorial
 role: Developer
-skill: Beginner, Intermediate, Experienced
+level: Beginner, Intermediate, Experienced
 thumbnail: KT-8116.jpg
-kt: 8116
+jira: KT-8116
 exl-id: 81410fe4-7a2c-43a9-b497-b7423f9821ec
-source-git-commit: 799b37e526073893fe7c078db547798d6c31d1b2
+source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -52,7 +52,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="createpdffromhtml.md">
-      <img alt="Création d'un PDF à partir de HTML ou MS Office en quelques minutes avec l'API PDF Services et Node.js" src="assets/PDFServices_GettingStartedNode_thumb.jpg" />
+      <img alt="Création d&apos;un PDF à partir de HTML ou MS Office en quelques minutes avec l&apos;API PDF Services et Node.js" src="assets/PDFServices_GettingStartedNode_thumb.jpg" />
    </a>
     <div>
    <a href="createpdffromhtml.md"><strong>Création d’un PDF depuis HTML ou [!DNL MS Office] en quelques minutes avec l'API PDF Services et Node.js</strong></a>
