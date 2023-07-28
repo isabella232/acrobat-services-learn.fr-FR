@@ -4,10 +4,11 @@ description: Découvrez comment obtenir des informations d’identification pour
 type: Tutorial
 role: Developer
 level: Beginner
+feature: PDF Services API
 thumbnail: KT-10382.jpg
 jira: KT-10382
 exl-id: 68ec654f-74aa-41b7-9103-44df13402032
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '918'
 ht-degree: 3%

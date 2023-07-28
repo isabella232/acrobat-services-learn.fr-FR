@@ -4,10 +4,11 @@ description: Découvrez comment générer une lettre d’offre pouvant être rem
 role: Developer
 level: Intermediate
 type: Tutorial
+feature: Use Cases
 thumbnail: KT-8096.jpg
 jira: KT-8096
 exl-id: 92f955f0-add5-4570-aa3a-ea63055dadb2
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '1794'
 ht-degree: 2%

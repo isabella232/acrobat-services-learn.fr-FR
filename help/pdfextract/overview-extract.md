@@ -4,10 +4,11 @@ description: Page Présentation de l’API Adobe PDF Extract
 type: Tutorial
 role: Developer
 skill: Beginner, Intermediate, Experienced
+feature: PDF Extract API
 thumbnail: KT-9247.jpg
 jira: KT-9247
 exl-id: db340959-e7dc-4e46-939d-3b8c29749ebd
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%

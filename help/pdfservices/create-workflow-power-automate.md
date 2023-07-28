@@ -4,10 +4,11 @@ description: Découvrez comment utiliser le connecteur Adobe PDF Services dans M
 type: Tutorial
 role: Developer
 level: Beginner
+feature: PDF Services API
 thumbnail: KT-10379.jpg
 kt: 10379
 exl-id: 095b705f-c380-42cc-9329-44ef7de655ee
-source-git-commit: 799b37e526073893fe7c078db547798d6c31d1b2
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '1999'
 ht-degree: 2%
@@ -196,7 +197,6 @@ Copiez les données JSON ci-dessous dans le fichier **Fusionner les données** c
 >* [En savoir plus sur la génération de documents Adobes](https://developer.adobe.com/document-services/apis/doc-generation/)
 >* [Baliseur de génération de document Adobe pour Microsoft Word](https://appsource.microsoft.com/en-US/product/office/WA200002654)
 >* [Documentation de l’API Adobe Document Generation](https://developer.adobe.com/document-services/docs/overview/document-generation-api/)
-
 
 ### Enregistrez le fichier dans OneDrive
 

@@ -5,9 +5,10 @@ role: Developer
 level: Intermediate
 type: Tutorial
 thumbnail: KT-8092.jpg
+feature: Use Cases
 jira: KT-8092
 exl-id: 0e24c8fd-7fda-452c-96f9-1e7ab1e06922
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '1527'
 ht-degree: 0%

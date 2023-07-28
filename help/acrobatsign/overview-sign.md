@@ -4,9 +4,10 @@ description: Page Présentation des API Acrobat Sign
 type: Tutorial
 role: Developer
 level: Beginner, Intermediate, Experienced
+feature: Acrobat Sign API
 thumbnail: KT-11079.jpg
 exl-id: 79603883-26cd-439c-9cfd-6178c4544b93
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 11%

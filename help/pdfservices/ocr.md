@@ -4,11 +4,12 @@ description: Grâce à la reconnaissance optique des caractères (ROC), vous pou
 type: Tutorial
 role: Developer
 level: Beginner
+feature: PDF Services API
 thumbnail: KT-6677.jpg
 jira: KT-6677
 keywords: Hero
 exl-id: 61a9a2d1-94c3-41c2-8f90-a56a938ef245
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 4%
@@ -19,7 +20,7 @@ ht-degree: 4%
 
 ![Créer une image de héros PDF](assets/OCR_hero.jpg)
 
-Grâce à la reconnaissance optique des caractères (ROC), vous pouvez déverrouiller des PDF numérisés pour extraire du texte et générer des fichiers indexables. À l’aide de nos API cloud performantes, intégrez la reconnaissance optique des caractères dans n’importe quel workflow documentaire pour offrir une solution parfaite à l’archivage, la copie de texte et la création d’index de documents indexables. Créez des archives consultables à partir de dépôts de PDF numérisés pour déverrouiller des informations importantes et gagner du temps grâce à des recherches rapides. Ou appliquez la reconnaissance optique des caractères à vos PDF à partir de numérisations chargées pour leur permettre d’être modifiés afin de les utiliser dans les workflows d’intégration.
+Grâce à la reconnaissance optique des caractères (ROC), vous pouvez déverrouiller des PDF numérisés pour extraire du texte et générer des fichiers indexables. À l’aide de nos API cloud performantes, intégrez la reconnaissance optique des caractères dans n’importe quel workflow documentaire pour offrir une solution parfaite à l’archivage, à la copie de texte et à la création d’index de documents indexables. Créez des archives consultables à partir de dépôts de PDF numérisés pour déverrouiller des informations importantes et gagner du temps grâce à des recherches rapides. Ou appliquez la reconnaissance optique des caractères à vos PDF à partir de numérisations chargées pour leur permettre d’être modifiés afin de les utiliser dans les workflows d’intégration.
 
 Les développeurs peuvent démarrer en quelques minutes grâce aux fichiers d’exemple prêts à l’emploi fournis pour la reconnaissance optique des caractères.
 

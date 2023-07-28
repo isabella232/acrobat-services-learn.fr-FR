@@ -4,10 +4,11 @@ description: Découvrez comment automatiser les workflows juridiques avec du con
 role: Developer
 level: Intermediate
 type: Tutorial
+feature: Use Cases
 thumbnail: KT-10202.jpg
 jira: KT-10202
 exl-id: 2a1752b8-9641-40cc-a0af-1dce6cf49346
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '2876'
 ht-degree: 1%

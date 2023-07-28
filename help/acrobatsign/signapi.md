@@ -4,10 +4,11 @@ description: Découvrez comment inclure l’API Acrobat Sign dans votre applicat
 role: Developer
 level: Intermediate
 type: Tutorial
+feature: Acrobat Sign API
 thumbnail: KT-8089.jpg
 jira: KT-8089
 exl-id: ae1cd9db-9f00-4129-a2a1-ceff1c899a83
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '2058'
 ht-degree: 2%

@@ -4,10 +4,11 @@ description: Page Présentation de l’API Adobe PDF Embed
 type: Tutorial
 role: Developer
 level: Beginner, Intermediate, Experienced
+feature: PDF Embed API
 thumbnail: KT-8117.jpg
 kt: 8117
 exl-id: 2fef89cf-640d-4ff4-9282-070bce8bba78
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

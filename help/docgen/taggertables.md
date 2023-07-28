@@ -4,9 +4,10 @@ description: Découvrez comment ajouter des tableaux et des balises de liste à 
 type: Tutorial
 role: Developer
 level: Beginner
+feature: Document Generation API
 thumbnail: 332115.jpg
 exl-id: 15cb4016-6f92-401f-bda5-088ffd43588a
-source-git-commit: 49c64965668518fc33539914db1b50132a40ee34
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%

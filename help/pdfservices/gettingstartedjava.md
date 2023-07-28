@@ -4,10 +4,11 @@ description: Les développeurs peuvent commencer en quelques minutes avec les fi
 type: Tutorial
 role: Developer
 level: Beginner
+feature: PDF Services API
 thumbnail: KT-6676.jpg
 kt: 6676
 exl-id: 4a8f2119-c464-496b-bdc8-35dd387bef25
-source-git-commit: 799b37e526073893fe7c078db547798d6c31d1b2
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '501'
 ht-degree: 0%
@@ -69,6 +70,6 @@ L&#39;API PDF Services peut vous aider à éliminer les processus manuels en aut
 
 * Articles connexes
 
-   [La nouvelle API PDF Services offre encore plus de fonctionnalités pour les workflows documentaires](https://community.adobe.com/t5/document-services-apis/new-pdf-tools-api-brings-more-capabilities-for-document-services/m-p/11294170)
+  [La nouvelle API PDF Services offre encore plus de fonctionnalités pour les workflows documentaires](https://community.adobe.com/t5/document-services-apis/new-pdf-tools-api-brings-more-capabilities-for-document-services/m-p/11294170)
 
-   [Version de juillet [!DNL Adobe Acrobat Services]: Services d&#39;intégration et de PDF PDF](https://medium.com/adobetech/july-release-of-adobe-document-services-pdf-embed-and-pdf-tools-17211bf7776d)
+  [Version de juillet [!DNL Adobe Acrobat Services]: Services d&#39;intégration et de PDF PDF](https://medium.com/adobetech/july-release-of-adobe-document-services-pdf-embed-and-pdf-tools-17211bf7776d)

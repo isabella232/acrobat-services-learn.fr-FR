@@ -4,10 +4,11 @@ description: Page Présentation de [!DNL Adobe Acrobat Services] Exemples d’ut
 type: Tutorial
 role: Developer
 level: Beginner, Intermediate, Experienced
+feature: Use Cases
 thumbnail: KT-8115.jpg
 jira: KT-8115
 exl-id: 4188897e-f6e6-41ea-be6f-359a3ef0e040
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 0%

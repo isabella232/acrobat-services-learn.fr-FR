@@ -4,10 +4,11 @@ description: Découvrez comment moderniser l'intégration des collaborateurs ave
 role: Developer
 level: Intermediate
 type: Tutorial
+feature: Use Cases
 thumbnail: KT-10203.jpg
 jira: KT-10203
 exl-id: 0186b3ee-4915-4edd-8c05-1cbf65648239
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '1514'
 ht-degree: 1%

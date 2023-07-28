@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-7487.jpg
 jira: KT-7487
 exl-id: 64ffdacb-d6cb-43e7-ad10-bbd8afc0dbf4
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '1496'
 ht-degree: 0%

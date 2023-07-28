@@ -4,9 +4,10 @@ description: Découvrez comment créer un compte développeur pour Acrobat Sign,
 type: Tutorial
 role: Developer
 level: Beginner
+feature: Acrobat Sign API
 thumbnail: KT-11072.jpg
 exl-id: cf5f36bd-f96a-4f38-8da5-82a3a4d12958
-source-git-commit: 0c434db1665d4cb6ce6aff6f329e300f22129df9
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%

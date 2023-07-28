@@ -4,11 +4,12 @@ description: "[!DNL Adobe Acrobat Services] Les API intègrent facilement des fo
 type: Tutorial
 role: Developer
 level: Beginner
+feature: Use Cases
 thumbnail: KT-7473.jpg
 jira: KT-7473
 keywords: En vedette
 exl-id: 44a03420-e963-472b-aeb8-290422c8d767
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '2182'
 ht-degree: 1%

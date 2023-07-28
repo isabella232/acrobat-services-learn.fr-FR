@@ -4,10 +4,11 @@ description: Découvrez comment générer des rapports de PDF sur votre site web
 role: Developer
 level: Intermediate
 type: Tutorial
+feature: Use Cases
 thumbnail: KT-8093.jpg
 jira: KT-8093
 exl-id: 2f2bf1c2-1b33-4eee-9fd2-5d0b77e6b0a9
-source-git-commit: 2d1151c17dfcfa67aca05411976f4ef17adf421b
+source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
 workflow-type: tm+mt
 source-wordcount: '1346'
 ht-degree: 1%
