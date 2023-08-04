@@ -1,14 +1,14 @@
 ---
 title: Création d'un PDF à partir de HTML ou MS Office en quelques minutes avec l'API PDF Services et Node.js
 description: Dans l'API PDF Services, il existe plusieurs services disponibles pour la création et la manipulation de PDF, ou l'exportation de PDF vers MS Office et d'autres formats
-type: Tutorial
+feature: PDF Services API
 role: Developer
 level: Beginner
-feature: PDF Services API
-thumbnail: KT-6673.jpg
+type: Tutorial
 jira: KT-6673
+thumbnail: KT-6673.jpg
 exl-id: 1bd01bb8-ca5e-4a4a-8646-3d97113e2c51
-source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
+source-git-commit: 5222e1626f4e79c02298e81d621216469753ca72
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 0%

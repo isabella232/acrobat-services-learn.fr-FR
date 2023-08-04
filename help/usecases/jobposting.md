@@ -1,14 +1,14 @@
 ---
 title: Validation de tâche
 description: Découvrez comment créer une expérience web fluide et cohérente pour les candidats et les employeurs
+feature: Use Cases
 role: Developer
 level: Intermediate
 type: Tutorial
-thumbnail: KT-8092.jpg
-feature: Use Cases
 jira: KT-8092
+thumbnail: KT-8092.jpg
 exl-id: 0e24c8fd-7fda-452c-96f9-1e7ab1e06922
-source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
+source-git-commit: 5222e1626f4e79c02298e81d621216469753ca72
 workflow-type: tm+mt
 source-wordcount: '1527'
 ht-degree: 0%

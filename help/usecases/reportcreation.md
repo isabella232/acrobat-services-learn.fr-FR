@@ -1,14 +1,14 @@
 ---
 title: Création et modification de rapports
 description: Découvrez comment générer des rapports de PDF sur votre site web pour les clients
+feature: Use Cases
 role: Developer
 level: Intermediate
 type: Tutorial
-feature: Use Cases
-thumbnail: KT-8093.jpg
 jira: KT-8093
+thumbnail: KT-8093.jpg
 exl-id: 2f2bf1c2-1b33-4eee-9fd2-5d0b77e6b0a9
-source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
+source-git-commit: 5222e1626f4e79c02298e81d621216469753ca72
 workflow-type: tm+mt
 source-wordcount: '1346'
 ht-degree: 1%

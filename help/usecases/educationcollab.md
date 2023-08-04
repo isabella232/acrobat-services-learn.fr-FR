@@ -1,14 +1,14 @@
 ---
 title: Collaboration étudiant-enseignant
 description: Découvrez comment créer une plateforme d’apprentissage en ligne qui permet aux enseignants et aux étudiants de partager facilement des ressources en PDF
+feature: Use Cases
 role: Developer
 level: Intermediate
 type: Tutorial
-feature: Use Cases
-thumbnail: KT-8091.jpg
 jira: KT-8091
+thumbnail: KT-8091.jpg
 exl-id: 570a635c-e539-4afc-a475-ecf576415217
-source-git-commit: b65ffa3efa3978587564eb0be0c0e7381c8c83ab
+source-git-commit: 5222e1626f4e79c02298e81d621216469753ca72
 workflow-type: tm+mt
 source-wordcount: '1485'
 ht-degree: 0%
