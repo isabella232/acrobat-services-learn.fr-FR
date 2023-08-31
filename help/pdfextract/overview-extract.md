@@ -1,25 +1,25 @@
 ---
-title: Adobe PDF Extract API Tutorials
+title: Tutorials d’API Adobe PDF Extract
 description: Page Présentation de l’API Adobe PDF Extract
 feature: PDF Extract API
 role: Developer
-skill: Beginner, Intermediate, Experienced
+level: Beginner, Intermediate, Experienced
 type: Tutorial
 jira: KT-9247
 thumbnail: KT-9247.jpg
 exl-id: db340959-e7dc-4e46-939d-3b8c29749ebd
-source-git-commit: 5222e1626f4e79c02298e81d621216469753ca72
+source-git-commit: 382518232e804a5a64504bead419e6b822df42c0
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Tutoriels sur l’API Adobe PDF Extract
+# Tutoriels de l’API Adobe PDF Extract
 
-![Bannière API intégrée dans le PDF](../assets/pdfextracthero.jpg)
+![Bannière de l’API PDF Embed](../assets/pdfextracthero.jpg)
 
-Libérez la structure et le contenu de n’importe quel PDF grâce à un service web optimisé par le machine learning d’Adobe Sensei.
+Déverrouillez les éléments de structure et de contenu de n’importe quel PDF à l’aide d’un service web optimisé par le machine learning Adobe Sensei.
 
 >[!NOTE]
 >
@@ -29,12 +29,12 @@ Libérez la structure et le contenu de n’importe quel PDF grâce à un service
 <tr>
  <td>
    <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/parsing-pdf.html">
-      <img alt="Analyse du PDF : Aussi facile que de travailler avec des données JSON avec l’API PDF Extract" src="assets/ParsingPDF_1280.png" />
+      <img alt="Analyse du PDF : aussi facile que de travailler avec des données JSON avec l’API d’extraction de PDF" src="assets/ParsingPDF_1280.png" />
    </a>
     <div>
-   <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/parsing-pdf.html"><strong>Analyse du PDF : Aussi facile que de travailler avec des données JSON avec l’API PDF Extract</strong></a>
+   <a href="https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/parsing-pdf.html"><strong>Analyse du PDF : aussi facile que de travailler avec des données JSON avec l’API d’extraction de PDF</strong></a>
     </div>
-    <em>Découvrez comment le service Extraction de PDF de l’API Adobe PDF Services peut faciliter l’analyse du PDF au même titre que celle de JSON</em>
+    <em>Découvrez comment le service d’extraction de PDF de l’API Adobe PDF Services peut rendre l’analyse du PDF aussi simple que l’analyse du fichier JSON</em>
     <br>
   </td>
   <td>
