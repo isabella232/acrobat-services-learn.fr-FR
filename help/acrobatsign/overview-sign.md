@@ -8,16 +8,14 @@ type: Tutorial
 jira: KT-11079
 thumbnail: KT-11079.jpg
 exl-id: 79603883-26cd-439c-9cfd-6178c4544b93
-source-git-commit: 5222e1626f4e79c02298e81d621216469753ca72
+source-git-commit: e2debb7ef139f890cdfc158f7634ee5c836fab32
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '223'
 ht-degree: 11%
 
 ---
 
-# Tutoriels sur les API Acrobat Sign
-
-![Bannière API Acrobat Sign](../assets/acrobatsignhero.png)
+# Tutoriels de l’API Acrobat Sign
 
 Les API Acrobat Sign vous permettent de créer des applications et d’intégrer l’interface utilisateur et les fonctionnalités d’Acrobat Sign dans vos applications.
 
@@ -55,28 +53,28 @@ Les API Acrobat Sign vous permettent de créer des applications et d’intégre
 
 ## Guide de démarrage rapide d’Acrobat Sign Embed
 
-Découvrez comment commencer à incorporer la version OEM d’Acrobat Sign dans votre application. Ce guide est spécialement conçu pour les partenaires OEM qui créent et intègrent un processus de signature dans leur application.
+Découvrez comment commencer à intégrer la version OEM d’Acrobat Sign dans votre application. Ce guide est spécialement conçu pour les partenaires OEM qui élaborent et intègrent un processus de signature dans leur application.
 
 <table style="table-layout:fixed">
 <tr>
  <td>
    <a href="sign-up-developer-account.md">
-      <img alt="S’inscrire à un compte Développeur" src="assets/Signingup_1280.png" />
+      <img alt="Ouvrir un compte développeur" src="assets/Signingup_1280.png" />
    </a>
     <div>
-   <a href="sign-up-developer-account.md"><strong>S’inscrire à un compte Développeur</strong></a>
+   <a href="sign-up-developer-account.md"><strong>Ouvrir un compte développeur</strong></a>
     </div>
-    <em>Découvrez comment créer un compte développeur pour Acrobat Sign, qui est entièrement activé avec les fonctionnalités Sign et API</em>
+    <em>Découvrez comment créer un compte Développeur pour Acrobat Sign, qui est entièrement activé avec les fonctionnalités Sign et API</em>
     <br>
   </td>
   <td>
    <a href="creating-your-application.md">
-      <img alt="Création de votre application" src="assets/Creatingyourapplication_1280.png" />
+      <img alt="Création de l’application" src="assets/Creatingyourapplication_1280.png" />
    </a>
     <div>
-   <a href="creating-your-application.md"><strong>Création de votre application</strong></a>
+   <a href="creating-your-application.md"><strong>Création de l’application</strong></a>
     </div>
-    <em>Création d’une application dans Acrobat Sign</em>
+    <em>Découvrez comment créer une application dans Acrobat Sign</em>
     <br>
   </td>
    <td>
@@ -86,7 +84,7 @@ Découvrez comment commencer à incorporer la version OEM d’Acrobat Sign dans 
     <div>
    <a href="creating-an-embed-link.md"><strong>Création d’un lien incorporé</strong></a>
     </div>
-    <em>Découvrez comment créer un lien incorporé pour OAuth, qui est la méthode par laquelle votre application obtient des autorisations pour les utilisateurs</em>
+    <em>Découvrez comment créer un lien d’incorporation pour OAuth, la méthode par laquelle votre application obtient des autorisations pour les utilisateurs</em>
     <br>
   </td>
   <td>

@@ -8,16 +8,14 @@ type: Tutorial
 jira: KT-9247
 thumbnail: KT-9247.jpg
 exl-id: db340959-e7dc-4e46-939d-3b8c29749ebd
-source-git-commit: 382518232e804a5a64504bead419e6b822df42c0
+source-git-commit: e2debb7ef139f890cdfc158f7634ee5c836fab32
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 # Tutoriels de l’API Adobe PDF Extract
-
-![Bannière de l’API PDF Embed](../assets/pdfextracthero.jpg)
 
 Déverrouillez les éléments de structure et de contenu de n’importe quel PDF à l’aide d’un service web optimisé par le machine learning Adobe Sensei.
 
